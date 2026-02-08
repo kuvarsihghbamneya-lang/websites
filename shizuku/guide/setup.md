@@ -1,4 +1,8 @@
-# User manual
+[🚀] Downgrade: com.bbk.theme
+[🧹] Uninstalling existing...
+[📦] Installing...
+Failure [INSTALL_FAILED_VERSION_DOWNGRADE: Package Verification Result]
+[❌] Installation failed!# User manual
 
 [[toc]]
 
